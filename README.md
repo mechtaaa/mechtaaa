@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 
 MY STATS:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechtaaa)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechtaaa&layout=compact)](https://github.com/mechtaaa/github-readme-stats)
 
 Profile Card:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechtaaa&theme=solarized_dark) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechtaaa)](https://git.io/streak-stats)
