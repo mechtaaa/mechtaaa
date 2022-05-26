@@ -7,7 +7,10 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JAVA
 - I have completed the course <a href="https://sun9-85.userapi.com/s/v1/if2/xzO7DrwTlRPBlaxDzndkfBu09KGN4FFgn0eSA2J9mQiEifJkHl1x-aOUbguXG5i5ht85YHQ-uCETmfho7SxSTvDq.jpg?size=498x1080&quality=96&type=album" target="_blank"> Software testing</a>  
-- 📫 How to reach me:<a href="https://t.me/mechtaaa_mechtaaa" target="_blank"> Telegram</a>  
+- 📫 How to reach me:<a href="https://t.me/mechtaaa_mechtaaa" target="_blank"> Telegram</a> 
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechtaaa&layout=compact)](https://github.com/mechtaaa/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechtaaa)](https://github.com/mechtaaa/github-readme-stats)
 
