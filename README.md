@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 
 - 📫 How to reach me:<a href="https://t.me/mechtaaa_mechtaaa" target="_blank"> Telegram</a>  
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechtaaa&theme=solarized_dark)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechtaaa&theme=solarized_dark)
 
 Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mechtaaa&theme=solarized_dark)
