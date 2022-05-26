@@ -15,5 +15,6 @@ MY STATS:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechtaaa&layout=compact)](https://github.com/mechtaaa/github-readme-stats)
 
-Profile Card:
+PROFIELE CARD:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechtaaa&theme=solarized_dark) 
