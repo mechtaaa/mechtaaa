@@ -7,4 +7,19 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JAVA
 - I have completed the course <a href="https://sun9-85.userapi.com/s/v1/if2/xzO7DrwTlRPBlaxDzndkfBu09KGN4FFgn0eSA2J9mQiEifJkHl1x-aOUbguXG5i5ht85YHQ-uCETmfho7SxSTvDq.jpg?size=498x1080&quality=96&type=album" target="_blank"> Software testing</a>  
+- 
 - 📫 How to reach me:<a href="https://t.me/mechtaaa_mechtaaa" target="_blank"> Telegram</a>  
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
