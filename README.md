@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 Profile Card:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mechtaaa&theme=solarized_dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechtaaa)](https://git.io/streak-stats)
