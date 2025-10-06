@@ -1,7 +1,7 @@
 👋 Welcome To My GitHub Profile ! ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <h1 align="center">Hi there, I'm <atarget="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm studying to be a QA Engineer!</h3>
+<h3 align="center">I'm QA Engineer!</h3>
 
 
 ### 📖 About Me: 
